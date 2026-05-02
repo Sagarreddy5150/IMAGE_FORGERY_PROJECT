@@ -1,0 +1,8 @@
+venv/
+dataset/
+__pycache__/
+*.pyc
+*.pyo
+*.keras
+*.h5
+*.png
